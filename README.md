@@ -2,7 +2,7 @@
 
 Tutorial repository for Apache Kafka TSD 2023.
 
-Slides:
+Slides
 https://www.canva.com/design/DAFjBI2_CUc/Sa2GGoAssJOqM8jCrE6oTg/edit?utm_content=DAFjBI2_CUc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 Tasks:
